@@ -34,40 +34,17 @@ WanderLust/
 │   └── user.js
 │
 ├── views/
-│   │
 │   ├── layouts/
-│   │   └── boilerplate.ejs
-│   │
 │   ├── listings/
-│   │   ├── index.ejs
-│   │   ├── show.ejs
-│   │   ├── new.ejs
-│   │   └── edit.ejs
-│   │
 │   ├── reviews/
-│   │   └── review.ejs
-│   │
 │   ├── users/
-│   │   ├── login.ejs
-│   │   └── signup.ejs
-│   │
 │   ├── includes/
-│   │   ├── navbar.ejs
-│   │   ├── footer.ejs
-│   │   └── flash.ejs
-│   │
 │   └── error.ejs
 │
 ├── public/
-│   │
 │   ├── css/
-│   │   └── style.css
-│   │
 │   ├── js/
-│   │   └── script.js
-│   │
 │   └── images/
-│       └── logo.png
 │
 ├── utils/
 │   ├── ExpressError.js
@@ -78,7 +55,7 @@ WanderLust/
 │   └── index.js
 │
 ├── schemas.js
-└── README.md
+└── README.md      
 
 # Installation Steps--
 
