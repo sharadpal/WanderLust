@@ -1,4 +1,6 @@
 # WanderLust
+<img width="1919" height="975" alt="Screenshot 2026-08-06 123657" src="https://github.com/user-attachments/assets/b79530e4-367b-45e9-bf82-ed5a36581bb3" />
+
 
 Wanderlust Web Project Installation Guide
 
