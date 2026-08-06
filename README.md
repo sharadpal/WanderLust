@@ -11,7 +11,7 @@ Before you begin, make sure you have the following installed on your system:
     Node.js (version 18 recommended, optimally v18.19.1)
     MongoDB
     Nodemon (installed globally)
-
+```text
 WanderLust/
 │
 ├── app.js
@@ -55,7 +55,8 @@ WanderLust/
 │   └── index.js
 │
 ├── schemas.js
-└── README.md      
+└── README.md
+```   
 
 # Installation Steps--
 
