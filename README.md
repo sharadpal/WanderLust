@@ -12,6 +12,74 @@ Before you begin, make sure you have the following installed on your system:
     MongoDB
     Nodemon (installed globally)
 
+WanderLust/
+│
+├── app.js
+├── package.json
+├── cloudConfig.js
+├── middleware.js
+│
+├── models/
+│   ├── listing.js
+│   └── review.js
+│
+├── controllers/
+│   ├── listings.js
+│   ├── reviews.js
+│   └── users.js
+│
+├── routes/
+│   ├── listing.js
+│   ├── review.js
+│   └── user.js
+│
+├── views/
+│   │
+│   ├── layouts/
+│   │   └── boilerplate.ejs
+│   │
+│   ├── listings/
+│   │   ├── index.ejs
+│   │   ├── show.ejs
+│   │   ├── new.ejs
+│   │   └── edit.ejs
+│   │
+│   ├── reviews/
+│   │   └── review.ejs
+│   │
+│   ├── users/
+│   │   ├── login.ejs
+│   │   └── signup.ejs
+│   │
+│   ├── includes/
+│   │   ├── navbar.ejs
+│   │   ├── footer.ejs
+│   │   └── flash.ejs
+│   │
+│   └── error.ejs
+│
+├── public/
+│   │
+│   ├── css/
+│   │   └── style.css
+│   │
+│   ├── js/
+│   │   └── script.js
+│   │
+│   └── images/
+│       └── logo.png
+│
+├── utils/
+│   ├── ExpressError.js
+│   └── wrapAsync.js
+│
+├── init/
+│   ├── data.js
+│   └── index.js
+│
+├── schemas.js
+└── README.md
+
 # Installation Steps--
 
 1. Clone the Wanderlust repository from GitHub:
